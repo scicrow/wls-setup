@@ -1,0 +1,17 @@
+# Thomas Crow 28/11/2023
+
+# Insallation of Ubuntu using WSL client Ubuntu 22.04.3 LTS (GNU/Linux 4.4.0-19041-Microsoft x86_64)
+# Installation of apt 2.4.11 (amd64)
+# Python 3.10.12
+# pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)
+# conda 23.10.0
+# git version 2.40.1 
+
+
+# vim is a big stupid face so you have to make a ~/.vimrc file and add this to make it not start in replace mode EVERY
+# SINGLE TIME
+# set t_u7= 
+
+
+
+
